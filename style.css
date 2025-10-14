@@ -317,7 +317,7 @@ header ul a{
 }
 
 .card:nth-child(2) h1{
-   top: 35%;
+   top: 45%;
 }
 
 .card:nth-child(3){
@@ -522,7 +522,11 @@ header ul a{
     transition: .2s;
 }
 
-.slider img:nth-child(5){
+.slider img:nth-child(8){
+    height: 70px;
+}
+
+.slider img:nth-child(10){
     height: 70px;
 }
 /* SKILL END */
@@ -649,8 +653,8 @@ footer h1{
     }
 
     .blackhole_vid video{
-        margin-top: -12%;
-        width: 300px;
+        margin-top: -15%;
+        width: 350px;
     }
 
     .scroll_down{
@@ -819,7 +823,7 @@ footer h1{
     }
 
     .card:nth-child(2) h1{
-        top: 18vh;
+        top: 20vh;
     }
 
     .card:nth-child(3) h1{
