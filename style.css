@@ -172,7 +172,7 @@ header ul a{
 }
 
 .main_info p{
-    max-width: 600px;
+    max-width: 650px;
     margin-bottom: 30px;
     font-size: 16px;
     line-height: 30px;
@@ -317,7 +317,7 @@ header ul a{
 }
 
 .card:nth-child(2) h1{
-   top: 45%;
+   top: 28%;
 }
 
 .card:nth-child(3){
